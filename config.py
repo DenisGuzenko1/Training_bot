@@ -1,2 +1,0 @@
-token = '6236984962:AAHpBCTCq2RgtUnc-ZJELlefSh3lQNI1p9o'
-admin = 655586444
